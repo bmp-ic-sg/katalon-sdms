@@ -18,12 +18,11 @@ import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
 'Story: Verify if users can login successful.\n\nRequired:\n1. Email already register\n2. Password\n\nStep :\n1. Open browser and enter SDMS URL\n2. Page redirected to "Login" page\n3. Enter email and password \n4. Click "Login" button\n5. Login Success'
 WebUI.comment('')
 
-'Start'
-WebUI.openBrowser('')
+'Start and Enter SDMS URL'
+WebUI.openBrowser(GlobalVariable.baseUrl)
 
-'Enter SDMS URL'
-WebUI.navigateToUrl('https://uat.azlabs.sg/sdms')
-
+//'Enter SDMS URL'
+//WebUI.navigateToUrl('https://uat.azlabs.sg/sdms')
 'Page navigated to "Login" page'
 WebUI.waitForPageLoad(30)
 
@@ -34,19 +33,25 @@ WebUI.takeFullPageScreenshotAsCheckpoint('Login Page')
 WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Parkway Pantai - Login/userName'))
 
 'Enter "UserName" field'
-WebUI.setText(findTestObject('Object Repository/Page_Parkway Pantai - Login/userName'), 'sdmsAdmin')
+WebUI.setText(findTestObject('Object Repository/Page_Parkway Pantai - Login/userName'), GlobalVariable.userName)
 
 '"Password" field'
 WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Parkway Pantai - Login/password'))
 
 'Enter "Password" field'
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Parkway Pantai - Login/password'), 'ufl/XzYkHtvhqz0xQEf9ow==')
+WebUI.setText(findTestObject('Object Repository/Page_Parkway Pantai - Login/password'), GlobalVariable.password)
 
 '"Login" button'
 WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Parkway Pantai - Login/button_Login'))
 
 'Click "Login" button to verify userName and password'
 WebUI.click(findTestObject('Object Repository/Page_Parkway Pantai - Login/button_Login'))
+
+'Page navigated to home page'
+WebUI.waitForElementPresent(findTestObject('Page_Home/tittle_Home'), 30)
+
+'Home page'
+WebUI.takeFullPageScreenshotAsCheckpoint('Home page')
 
 'Finish'
 WebUI.closeBrowser()

@@ -19,12 +19,11 @@ import org.openqa.selenium.Keys as Keys
 'Story: Verify if the user was unable to log in successfully.\n\nRequired:\n1. Email already register\n2. Password\n\nStep :\n1. Open browser and enter SDMS URL\n2. Page redirected to "Login" page\n3. Enter email and password \n4. Click "Login" button\n5. Login Failed'
 WebUI.comment('')
 
-'Start'
-WebUI.openBrowser('')
+'Start and Enter SDMS URL'
+WebUI.openBrowser(GlobalVariable.baseUrl)
 
-'Enter SDMS URL'
-WebUI.navigateToUrl('https://uat.azlabs.sg/sdms')
-
+//'Enter SDMS URL'
+//WebUI.navigateToUrl('https://uat.azlabs.sg/sdms')
 'Page navigated to "Login" page'
 WebUI.waitForPageLoad(30)
 
@@ -41,7 +40,13 @@ WebUI.setText(findTestObject('Object Repository/Page_Parkway Pantai - Login/user
 WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Parkway Pantai - Login/password'))
 
 'Enter "Password" field'
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Parkway Pantai - Login/password'), 'ufl/XzYkHtvhqz0xQEf9ow==')
+WebUI.setText(findTestObject('Object Repository/Page_Parkway Pantai - Login/password'), GlobalVariable.password)
+
+'"Login" button'
+WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Parkway Pantai - Login/button_Login'))
+
+'Click "Login" button to verify userName and password'
+WebUI.click(findTestObject('Object Repository/Page_Parkway Pantai - Login/button_Login'))
 
 'Scroll find area error message'
 WebUI.scrollToElement(findTestObject('Object Repository/Page_Parkway Pantai - Login/li_Failed to authenticate'), 1)
