@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Centres  Services (Main)</name>
+   <tag></tag>
+   <elementGuidId>1a618f7c-1c23-4a9d-b0ba-c93a2a2b58f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='centres_services_main-button-add']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#centres_services_main-button-add</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1e04aa13-d83a-4837-b184-02de388b7223</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c9d2b6fd-d804-416f-9d17-02e098419273</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-button btn-light text-primary add-centres-services-main-button</value>
+      <webElementGuid>f92fa954-1e49-44cc-b739-000aabd8f9de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>centres_services_main-button-add</value>
+      <webElementGuid>611e7bf7-33bd-4007-9850-8ba8e783643f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>centres_services_main-button-add</value>
+      <webElementGuid>b4d7852a-c7d6-4f11-a855-aafb09f5b6d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>5dafcb8a-6b98-43e5-a66e-7fbb6d02bef6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#centres_services_main_modal_add</value>
+      <webElementGuid>f37a0e5c-a702-4f65-8c94-765ad0f8936b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-backdrop</name>
+      <type>Main</type>
+      <value>static</value>
+      <webElementGuid>3b444692-e397-49b6-8f2f-79b0d94f18b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-keyboard</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>1d7c6918-3f22-41c3-8542-65a74fb65da9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        
+                                        Add Centres &amp; Services (Main)
+                                    </value>
+      <webElementGuid>b8f9f1f6-71a3-441d-9c82-11056e1ce6df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;centres_services_main-button-add&quot;)</value>
+      <webElementGuid>840a1b13-7610-4015-ac3c-dad7b2816a1a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='centres_services_main-button-add']</value>
+      <webElementGuid>8cf30311-7ecb-4320-b732-7d69a17e3f03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Centres &amp; Services (Main)'])[4]/following::button[1]</value>
+      <webElementGuid>9821d348-e65c-4ddc-9fd2-1ae889c63001</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[2]/following::button[1]</value>
+      <webElementGuid>75e8dd4f-c7d1-4117-bed2-b7b4fd28d65c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::button[1]</value>
+      <webElementGuid>4886c2fa-3890-407a-bb4d-47abd5a616bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/button</value>
+      <webElementGuid>412a4c50-7cd8-4760-b113-09d0e88a87b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'centres_services_main-button-add' and @name = 'centres_services_main-button-add' and (text() = '
+                                        
+                                        Add Centres &amp; Services (Main)
+                                    ' or . = '
+                                        
+                                        Add Centres &amp; Services (Main)
+                                    ')]</value>
+      <webElementGuid>cc13309d-c4fa-4537-ac53-8cbfda752212</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

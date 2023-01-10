@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Email_o-auth__logo js-o-auth__logo</name>
+   <tag></tag>
+   <elementGuidId>64d63147-4b9c-41de-a09c-2bcdff7cae38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Logo']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.o-auth__logo.js-o-auth__logo</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a76a681d-2e84-4d8f-a71f-e3dfc79b8833</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o-auth__logo js-o-auth__logo</value>
+      <webElementGuid>3c52895c-0a55-4b3c-b04d-a5e0da300d2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiaWhoLWhlYWx0aGNhcmUtYmVyaGFkXC9hY2NvdW50c1wvYzNcLzQwMDA2MjRcL2xvZ2lucGFnZV9sb2dvc1wvYzRcLzFcLzQ5MTliZTlhNDQxYWE1N2VlZjRlY2M4MmM1M2ZhNjVmLTE2MTc4NjI0NzcucG5nIn0:ihh-healthcare-berhad:Jpz4bDLCYZRh4oV--rfu4FcunMD8lDrFDm8q8Bg53GI?width={width}&amp;rect=139.9770212766,78.00079787234,324.11872340426,359.60996010638&amp;reference_width=600</value>
+      <webElementGuid>45bbc705-66c5-4d6e-ac3b-15a731f41116</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Logo</value>
+      <webElementGuid>df0bb13e-aeb4-4190-9b42-c32723eb358d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;mod modLayout skinLayoutAuth&quot;]/body[1]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;mod mod-o-auth o-auth o-auth--with-links&quot;]/div[@class=&quot;o-auth__box js-o-auth__box&quot;]/div[@class=&quot;o-auth__box-content&quot;]/div[@class=&quot;o-auth__claim-and-logo-wrapper js-o-auth__claim-and-logo-wrapper&quot;]/img[@class=&quot;o-auth__logo js-o-auth__logo&quot;]</value>
+      <webElementGuid>3155e725-81f1-4a6b-bc0e-9650e9f02de3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Logo']</value>
+      <webElementGuid>193dd859-4e0f-4974-8398-f1ebfc2b2be3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>8e3c4c5b-f0b8-4e4d-99f9-94e9b1402de1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiaWhoLWhlYWx0aGNhcmUtYmVyaGFkXC9hY2NvdW50c1wvYzNcLzQwMDA2MjRcL2xvZ2lucGFnZV9sb2dvc1wvYzRcLzFcLzQ5MTliZTlhNDQxYWE1N2VlZjRlY2M4MmM1M2ZhNjVmLTE2MTc4NjI0NzcucG5nIn0:ihh-healthcare-berhad:Jpz4bDLCYZRh4oV--rfu4FcunMD8lDrFDm8q8Bg53GI?width={width}&amp;rect=139.9770212766,78.00079787234,324.11872340426,359.60996010638&amp;reference_width=600' and @alt = 'Logo']</value>
+      <webElementGuid>674b2b8f-5bfa-492a-8a87-5e15d29f9b57</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

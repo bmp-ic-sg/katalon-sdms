@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Nothing selected_fa</name>
+   <tag></tag>
+   <elementGuidId>a203875c-51f5-408f-b907-fe0dc48a9265</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='add-specialty-checkboxes']/ul/li/div/span[3]/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.gj-checkbox-bootstrap.gj-checkbox-bootstrap-4.gj-checkbox-fontawesome > span.fa</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2462a01d-25a5-44f0-9d3a-bbb0ab8a311f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa</value>
+      <webElementGuid>2ab2b931-74d4-418d-b5cf-69bbd3a21cc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add-specialty-checkboxes&quot;)/ul[@class=&quot;gj-list gj-list-bootstrap&quot;]/li[@class=&quot;list-group-item&quot;]/div[1]/span[3]/label[@class=&quot;gj-checkbox-bootstrap gj-checkbox-bootstrap-4 gj-checkbox-fontawesome&quot;]/span[@class=&quot;fa&quot;]</value>
+      <webElementGuid>8c3bada9-d3b0-46ef-926c-c429622c190c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='add-specialty-checkboxes']/ul/li/div/span[3]/label/span</value>
+      <webElementGuid>59c55da6-a101-4788-87b0-ef9500618efa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[3]/label/span</value>
+      <webElementGuid>9ccf4407-48a0-4eed-8443-f036983c01a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

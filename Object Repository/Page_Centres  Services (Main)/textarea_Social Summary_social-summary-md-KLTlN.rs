@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Social Summary_social-summary-md-KLTlN</name>
+   <tag></tag>
+   <elementGuidId>7fc94d40-2239-4b48-ab7f-d5057fb9470f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@name='social-summary-md-KLTlN']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>textarea[name=&quot;social-summary-md-KLTlN&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>dd2bfa0d-85b5-4cda-878a-24f8e50965ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control textarea-allow-resize</value>
+      <webElementGuid>1603340b-1120-4ed7-8cc5-7d47e5a87bca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>social-summary-md-KLTlN</value>
+      <webElementGuid>03219c61-4f87-412c-b0a2-887a25aeb034</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>b67e1c35-bf17-4069-9228-da879f1fa4f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Social Summary</value>
+      <webElementGuid>251135c8-e475-471a-91ef-b91b4846573e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oninput</name>
+      <type>Main</type>
+      <value>metaDataFieldChange(this.value, 'socialSummary', 'KLTlN')</value>
+      <webElementGuid>5f52f1b1-877c-49cf-a5b2-1190208b6941</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapse-KLTlN&quot;)/div[@class=&quot;card-body&quot;]/div[@class=&quot;row mt-3&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-xs-6 mt-3&quot;]/div[@class=&quot;form-group row mat-form-group mat-form-group-textarea my-0 resizable-textarea-form&quot;]/div[@class=&quot;col-md-12 col-xs-12 form-container&quot;]/textarea[@class=&quot;form-control textarea-allow-resize&quot;]</value>
+      <webElementGuid>754636d9-c833-434e-96dc-6c68a08f1b9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//textarea[@name='social-summary-md-KLTlN']</value>
+      <webElementGuid>6675f2d9-f9be-4c9f-869c-8daa44871ff5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapse-KLTlN']/div/div/div[2]/div/div[2]/div/div/textarea</value>
+      <webElementGuid>bf46b090-7a83-41ab-a32d-184eb10b8802</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/textarea</value>
+      <webElementGuid>def25617-fa4e-439b-a4d8-a3b987bb01b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@name = 'social-summary-md-KLTlN' and @placeholder = 'Social Summary']</value>
+      <webElementGuid>e1317370-7cee-4a33-a582-07082b63da7f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

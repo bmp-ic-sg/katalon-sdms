@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Anaesthesiology  (operative care and p_4f3c31</name>
+   <tag></tag>
+   <elementGuidId>543e47da-5aea-4f4f-81df-3cf8d91687f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='add-specialty-checkboxes']/ul/li/ul/li/div/span[3]/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>17461edc-ff64-4188-9e87-a69e76038cb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa</value>
+      <webElementGuid>91110371-e263-4178-a361-2d103ed9b6cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add-specialty-checkboxes&quot;)/ul[@class=&quot;gj-list gj-list-bootstrap&quot;]/li[@class=&quot;list-group-item&quot;]/ul[@class=&quot;gj-list gj-list-bootstrap gj-hidden&quot;]/li[@class=&quot;list-group-item&quot;]/div[1]/span[3]/label[@class=&quot;gj-checkbox-bootstrap gj-checkbox-bootstrap-4 gj-checkbox-fontawesome&quot;]/span[@class=&quot;fa&quot;]</value>
+      <webElementGuid>31fcfa1f-b88d-457e-839e-4b3a2b24a79d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='add-specialty-checkboxes']/ul/li/ul/li/div/span[3]/label/span</value>
+      <webElementGuid>04935c98-542b-49bd-83dc-5c97f5dea2ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li/div/span[3]/label/span</value>
+      <webElementGuid>9377f71d-e137-4aa8-90b5-ee9a1d4f1eb3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

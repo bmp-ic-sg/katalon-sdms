@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Vietnamese</name>
+   <tag></tag>
+   <elementGuidId>15d2bbb3-83d1-4842-8628-ba403424c0a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;searchAvalailableLanguage('VIETNAMESE')&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9607154f-bc01-4fb2-bbbc-9899a16df69a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>7b117b1b-2e2b-4fb5-8839-150194afa3bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>searchAvalailableLanguage('VIETNAMESE')</value>
+      <webElementGuid>ff03e44b-bb39-4818-b9c6-02308e765024</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                    
+                                                    Vietnamese
+                                                </value>
+      <webElementGuid>c26c8f8f-9edf-4174-8275-f7c163cc98e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;body body-open-menu&quot;]/div[@class=&quot;ic-cms&quot;]/div[@class=&quot;page-contents p-0&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;content-container&quot;]/div[@class=&quot;row mb-4&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;btn-group w-100 mt-4 show&quot;]/div[@class=&quot;dropdown-menu show&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>efccb714-cada-403a-bef4-b81faf42cce2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;searchAvalailableLanguage('VIETNAMESE')&quot;]</value>
+      <webElementGuid>c577ab5d-69b7-451a-8161-db1877bb96e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Languages'])[1]/preceding::a[1]</value>
+      <webElementGuid>cd0f202a-4e53-4a31-900d-0feba2cb1b34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy'])[1]/preceding::a[2]</value>
+      <webElementGuid>23fded87-a081-4ba9-9531-107a88ee9dc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Vietnamese']/parent::*</value>
+      <webElementGuid>d06a34cb-e2ad-4a19-855b-7320d6680fdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a[4]</value>
+      <webElementGuid>15063e71-cde1-4309-a811-b6135dbb8560</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = '
+                                                    
+                                                    Vietnamese
+                                                ' or . = '
+                                                    
+                                                    Vietnamese
+                                                ')]</value>
+      <webElementGuid>53adc4ac-d83c-4c1a-94ee-eec5553abb5f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

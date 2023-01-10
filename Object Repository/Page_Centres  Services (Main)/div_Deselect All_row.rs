@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Deselect All_row</name>
+   <tag></tag>
+   <elementGuidId>0d4a158f-7c4e-4c17-af76-91939eebe965</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='centres_services_main_modal_add-basic-information-tab-content']/div[2]/div[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a3e9bf76-2e98-45d5-9b22-4a78a72f6acf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row</value>
+      <webElementGuid>3555389b-8e0e-43e9-bab4-4adf150aad93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;centres_services_main_modal_add-basic-information-tab-content&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 col-xs-12&quot;]/div[@class=&quot;row&quot;]</value>
+      <webElementGuid>ecb7536a-c3af-47be-b2a5-a512895d91c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='centres_services_main_modal_add-basic-information-tab-content']/div[2]/div[3]/div</value>
+      <webElementGuid>4524cdc9-82cb-438f-b5cc-9bf95a7e3c53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deselect All'])[1]/following::div[3]</value>
+      <webElementGuid>255edf6a-9909-4d3a-9f62-e4131c8e91d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select All'])[1]/following::div[3]</value>
+      <webElementGuid>93aa4088-b04e-42ec-b9cf-3c4669ccbfbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Specialties'])[1]/preceding::div[2]</value>
+      <webElementGuid>4cbe82bf-19ad-42fd-a837-5fae9ec97394</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selected 2 specialties'])[1]/preceding::div[2]</value>
+      <webElementGuid>d3f2e43a-25cc-41aa-8c31-1807929167c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div</value>
+      <webElementGuid>e83a7ee0-734e-4aa6-adf8-5ee57ed11af1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

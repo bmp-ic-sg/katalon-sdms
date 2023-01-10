@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hospital_Button Close-MetaData</name>
+   <tag></tag>
+   <elementGuidId>561b73f4-7c3f-4d91-ac2f-3ffd92adbcef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='heading-KLTlN']/span/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-flex.align-items-center.justify-content-end.h-100</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0ae6b9f8-73ce-4a84-af55-4667791c6877</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex align-items-center justify-content-end h-100</value>
+      <webElementGuid>7136f99e-4ff8-43b9-9ec0-6a69598af3a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;heading-KLTlN&quot;)/span[@class=&quot;row mb-0&quot;]/div[@class=&quot;col-md-1&quot;]/div[@class=&quot;d-flex align-items-center justify-content-end h-100&quot;]</value>
+      <webElementGuid>a45f9a73-8e23-4df3-9e41-94e2586b9521</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='heading-KLTlN']/span/div[2]/div</value>
+      <webElementGuid>b592c545-2ecb-4ea4-9b43-e5b6d21637c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hospital : Gleneagles Hospital'])[1]/following::div[2]</value>
+      <webElementGuid>a6a2c615-ef97-49e3-811a-db1043872e09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[9]/following::div[7]</value>
+      <webElementGuid>82f080af-0dde-42a4-90df-fec14f5e3741</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hospital Main Image'])[1]/preceding::div[2]</value>
+      <webElementGuid>38fe2ab8-cec7-4c8c-8a93-5fe8dc3e3451</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div[2]/div</value>
+      <webElementGuid>3ae2084f-7232-41d1-92d2-fec88a1dd7e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
