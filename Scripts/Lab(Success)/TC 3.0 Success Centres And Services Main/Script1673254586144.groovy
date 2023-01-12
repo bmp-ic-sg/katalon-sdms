@@ -23,17 +23,17 @@ WebUI.callTestCase(findTestCase('Base Login'), [:], FailureHandling.STOP_ON_FAIL
 
 WebUI.takeFullPageScreenshotAsCheckpoint('Home Page')
 
-WebUI.focus(findTestObject('Page_Home/div_Structured Data'))
+WebUI.focus(findTestObject('Object Repository/Page_Home/div_Structured Data'))
 
-WebUI.takeElementScreenshot(findTestObject('Page_Home/div_Structured Data'))
+WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Home/div_Structured Data'))
 
-WebUI.click(findTestObject('Page_Home/div_Structured Data'))
+WebUI.click(findTestObject('Object Repository/Page_Home/div_Structured Data'))
 
-WebUI.focus(findTestObject('Page_Home/a_Centres  Services (Main)'))
+WebUI.focus(findTestObject('Object Repository/Page_Home/a_Centres  Services (Main)'))
 
-WebUI.takeElementScreenshot(findTestObject('Page_Home/a_Centres  Services (Main)'))
+WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Home/a_Centres  Services (Main)'))
 
-WebUI.click(findTestObject('Page_Home/a_Centres  Services (Main)'))
+WebUI.click(findTestObject('Object Repository/Page_Home/a_Centres  Services (Main)'))
 
 WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Page')
 
@@ -230,14 +230,12 @@ WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/div_
 
 WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Hospitals'))
 
-WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Nothing selected'))
+WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Nothing selected_Hospitals'))
 
 WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/a_Gleneagles Hospital'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Centres  Services (Main)/select_Gleneagles HospitalMount Elizabeth H_bd9683'), 
     '2e3aee33-96d4-416c-8da6-1ff62e738955', true)
-
-WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Service Provider Types'))
 
 WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Hospitals'))
 
@@ -247,14 +245,12 @@ WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/div_
 
 WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Service Provider Types'))
 
-WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Nothing selected'))
+WebUI.click(findTestObject('Page_Centres  Services (Main)/div_Nothing selected_Provider-type'))
 
-WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/a_Clinical Embryology'))
+WebUI.click(findTestObject('Page_Centres  Services (Main)/a_Clinical Embryology'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Centres  Services (Main)/select_Clinical EmbryologyMedical AdvisorNu_88852e'), 
+WebUI.selectOptionByValue(findTestObject('Page_Centres  Services (Main)/select_Clinical EmbryologyMedical AdvisorNu_88852e'), 
     '9d361e69-f422-4cb1-96c4-f6e71d8f2817', true)
-
-WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Specialties'))
 
 WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Service Provider Types'))
 
@@ -264,10 +260,11 @@ WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/div_
 
 WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Specialties'))
 
-WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Nothing selected'))
+WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Nothing selected_By-Speciality'))
 
-WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/span_Nothing selected_fa'))
+WebUI.click(findTestObject('Page_Centres  Services (Main)/span_Nothing selected_fa'))
 
+//WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/span_Nothing selected_fa'))
 WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/i_Nothing selected_fa fa-plus'))
 
 WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/span_Anaesthesiology  (operative care and p_4f3c31'))
@@ -300,9 +297,13 @@ WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/labe
 
 WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/label_Specialist Listing Mode'))
 
-WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Nothing selected'))
+WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Medical Professional_By-Specialist-LM'))
 
-WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/a_Abdul Razakjr Bin Omar'))
+WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Medical Professional_By-Specialist-LM'))
+
+WebUI.click(findTestObject('Page_Centres  Services (Main)/div_Medical Professional_By-Specialist-LM'))
+
+WebUI.click(findTestObject('Page_Centres  Services (Main)/div_Nothing selected_MedPro-By-Special-LM'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Centres  Services (Main)/select_Abdul Razakjr Bin OmarAdrian Siew Mi_2646c6'), 
     'b2601187-1c37-4e77-abb1-10d17e572f55', true)
@@ -333,9 +334,11 @@ WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/labe
 
 WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/label_AHP Listing Mode'))
 
-WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Nothing selected'))
+WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Medical Professional_By-AHP'))
 
-WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/a_Abdul Kader Ansari'))
+WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Medical Professional_By-AHP'))
+
+WebUI.click(findTestObject('Page_Centres  Services (Main)/div_Nothing selected_Add'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Centres  Services (Main)/select_Abdul Kader AnsariAlefia VasanwalaAl_c97580'), 
     '83974521-0ce3-4465-bbeb-4ac7bfb6b4ef', true)
@@ -370,9 +373,7 @@ WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Serv
 
 WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Add Meta Data'))
 
-WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Hospital  Gleneagles Hospital_MD'))
-
-WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Hospital  Gleneagles Hospital_MD'))
+WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Add Meta Data Page')
 
 WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Hospital  Gleneagles Hospital'))
 
@@ -408,7 +409,7 @@ WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Serv
 
 WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Save'))
 
-WebUI.waitForElementPresent(findTestObject('Page_Centres  Services (Main)/h4_Successfully Created Centres  Services (Main)'), 
+WebUI.waitForElementPresent(findTestObject('Object Repository/Page_Centres  Services (Main)/h4_Successfully Created Centres  Services (Main)'), 
     10)
 
 WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Success Button Add')

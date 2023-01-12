@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Nothing selected_Hospitals</name>
+   <tag></tag>
+   <elementGuidId>7e270d4d-e2d7-4268-8a15-197cd1dbea29</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='centres_services_main_modal_add-basic-information-tab-content']/div[2]/div[2]/div/div/div/div/div/button/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.filter-option-inner-inner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>54bee932-3b2e-4e7e-8551-12b656bc9e9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filter-option-inner-inner</value>
+      <webElementGuid>f77e6e8e-c595-4f6c-bb61-9daffdedfd0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nothing selected</value>
+      <webElementGuid>80c87e7b-dc6d-43c8-89d9-b0ee34c7d2f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;centres_services_main_modal_add-basic-information-tab-content&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 col-xs-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-xs-6&quot;]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-md-12 col-xs-12 form-container&quot;]/div[@class=&quot;dropdown bootstrap-select show-tick dynamic-picker hospital-select&quot;]/button[@class=&quot;btn dropdown-toggle btn-light bs-placeholder&quot;]/div[@class=&quot;filter-option&quot;]/div[@class=&quot;filter-option-inner&quot;]/div[@class=&quot;filter-option-inner-inner&quot;]</value>
+      <webElementGuid>daf74df0-477d-45c3-acdb-90589499ec8b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='centres_services_main_modal_add-basic-information-tab-content']/div[2]/div[2]/div/div/div/div/div/button/div/div/div</value>
+      <webElementGuid>abde42f7-203b-4faa-bdc6-ae6c611dfdcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::div[4]</value>
+      <webElementGuid>8403666e-9e9d-4437-aec6-6ad02e001f76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hospitals'])[3]/following::div[4]</value>
+      <webElementGuid>6a049a54-c2b0-4827-9d5c-c88d5f882cdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select All'])[1]/preceding::div[1]</value>
+      <webElementGuid>170a7469-ce6a-453e-8430-f5c4ea0d9eab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deselect All'])[1]/preceding::div[1]</value>
+      <webElementGuid>80ed036d-253e-4121-b1b2-36d912b07bf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nothing selected']/parent::*</value>
+      <webElementGuid>228d510f-ebf0-43b9-aa62-ffb5cda678f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/div/div</value>
+      <webElementGuid>e0e4c847-c8fc-4123-a857-8c69b3393a39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Nothing selected' or . = 'Nothing selected')]</value>
+      <webElementGuid>d043f0ec-2d23-4d15-ac49-c47fc3826995</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

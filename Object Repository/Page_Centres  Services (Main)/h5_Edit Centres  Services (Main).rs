@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h5_Edit Centres  Services (Main)</name>
+   <tag></tag>
+   <elementGuidId>f92907df-317a-450a-99ab-6c53ff3ea269</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#edit-centres-services-main-modal-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h5[@id='edit-centres-services-main-modal-title']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>6eafd06b-b8e3-4b10-94d6-64fe9768fed3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-title</value>
+      <webElementGuid>804d0640-a31b-4ed0-8216-c61378e68032</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>edit-centres-services-main-modal-title</value>
+      <webElementGuid>9c47d3ad-1d65-4a08-8c80-16bfdfedf7f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit Centres &amp; Services (Main)
+                    </value>
+      <webElementGuid>e708b48c-415a-4d76-b886-bd9dbe253ebd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;edit-centres-services-main-modal-title&quot;)</value>
+      <webElementGuid>a1adfcbf-3a77-47e2-b709-2f5c57a16f6c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h5[@id='edit-centres-services-main-modal-title']</value>
+      <webElementGuid>cd9b12f8-fe31-40fc-9651-fe580d75b722</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='centres_services_main_modal_edit']/div/div/div[2]/h5</value>
+      <webElementGuid>9dc95623-2766-4ab9-be63-e2c3712d5b52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[2]/following::h5[1]</value>
+      <webElementGuid>d39ff3d6-756e-4a78-b3dd-7fa758a4e5ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::h5[1]</value>
+      <webElementGuid>b77d90f4-0265-4cb7-8c22-c6275df73dce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Basic Information'])[2]/preceding::h5[1]</value>
+      <webElementGuid>8bfe003f-1796-4801-a244-60260b375548</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Meta Data'])[2]/preceding::h5[1]</value>
+      <webElementGuid>143bed9e-3ced-469a-9b6f-c0600fdde822</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Edit Centres &amp; Services (Main)']/parent::*</value>
+      <webElementGuid>b703334c-8fc2-444f-aa10-14a1742e3dff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/h5</value>
+      <webElementGuid>18bda702-7d55-4a7e-8649-cda2d957202c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[@id = 'edit-centres-services-main-modal-title' and (text() = 'Edit Centres &amp; Services (Main)
+                    ' or . = 'Edit Centres &amp; Services (Main)
+                    ')]</value>
+      <webElementGuid>a1364ba3-41aa-406d-8b81-7d263415862f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
