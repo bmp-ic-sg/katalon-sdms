@@ -19,4 +19,14 @@
       <initValue>'flow88serve'</initValue>
       <name>password</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Page Name</description>
+      <initValue>'Katalon Test V1 Final.2'</initValue>
+      <name>pageName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>3</initValue>
+      <name>MaxUserCreate</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

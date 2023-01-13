@@ -12,17 +12,10 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>a328facb-1d60-416b-b29f-a11c6c22f45a</testSuiteGuid>
    <testCaseLink>
-      <guid>8cbe3ca9-a97c-4ff8-a6c4-29f247e15564</guid>
+      <guid>b4865f33-eebe-40ac-a80b-ef36649073ef</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Lab(Success)/TC1.0 Success Login</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>8fe4deb2-409b-40e5-81c5-59bb706e895c</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Lab(Success)/TC2.0 Success LogOut</testCaseId>
+      <testCaseId>Test Cases/Lab(Success)/TC 3.0 Success Centres And Services Main</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

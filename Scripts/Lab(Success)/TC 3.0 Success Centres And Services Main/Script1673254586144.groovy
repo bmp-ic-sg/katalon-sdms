@@ -16,6 +16,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
 
 WebUI.comment('')
 
@@ -36,129 +37,6 @@ WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Home/a_Centre
 WebUI.click(findTestObject('Object Repository/Page_Home/a_Centres  Services (Main)'))
 
 WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Page')
-
-WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Search'))
-
-WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Search'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Centres  Services (Main)/input_Search_centres_services_main-input-search'), 
-    'Katalon Test V1')
-
-WebUI.sendKeys(findTestObject('Object Repository/Page_Centres  Services (Main)/input_Search_centres_services_main-input-search'), 
-    Keys.chord(Keys.ENTER))
-
-WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Search_Button-search'))
-
-WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Search_Button-search'))
-
-WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Search By Page Name')
-
-WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Toggle Dropdown'))
-
-WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Toggle Dropdown'))
-
-WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Toggle Dropdown'))
-
-WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Search by-languange'))
-
-WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Search by-languange'))
-
-WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/a_Chinese'))
-
-WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Search By Chinese Language')
-
-WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Toggle Dropdown'))
-
-WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/a_English'))
-
-WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Search By English Language')
-
-WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Toggle Dropdown'))
-
-WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/a_Indonesian'))
-
-WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Search By Indonesian Language')
-
-WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Toggle Dropdown'))
-
-WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/a_Vietnamese'))
-
-WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Search By Vietnamese Language')
-
-WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Toggle Dropdown'))
-
-WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/a_All Languages'))
-
-WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Search By All Language')
-
-WebUI.clearText(findTestObject('Object Repository/Page_Centres  Services (Main)/input_Search_centres_services_main-input-search'))
-
-WebUI.sendKeys(findTestObject('Object Repository/Page_Centres  Services (Main)/input_Search_centres_services_main-input-search'), 
-    Keys.chord(Keys.ENTER))
-
-WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Page')
-
-WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Copy'))
-
-WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Copy'))
-
-WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Copy'))
-
-WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Button Copy Page')
-
-WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/button_CSV'))
-
-WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/button_CSV'))
-
-WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/button_CSV'))
-
-WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Button SCV Page')
-
-WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Excel'))
-
-WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Excel'))
-
-WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Excel'))
-
-WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Button Excel Page')
-
-WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/button_PDF'))
-
-WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/button_PDF'))
-
-WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/button_PDF'))
-
-WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Button PDF Page')
-
-WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Print'))
-
-WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Print'))
-
-WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Print'))
-
-WebUI.waitForPageLoad(10)
-
-WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Button Print Page')
-
-WebUI.scrollToElement(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Pagination'), 1)
-
-WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Pagination'))
-
-WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/a_Pagination-Next'))
-
-WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/a_Pagination-Next'))
-
-WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/a_Pagination-Next'))
-
-WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Page 2')
-
-WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/a_Pagination-Previous'))
-
-WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/a_Pagination-Previous'))
-
-WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/a_Pagination-Previous'))
-
-WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Page 1')
 
 WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Add Centres  Services (Main)'))
 
@@ -359,53 +237,9 @@ WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Serv
 
 WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Basic Information Lab')
 
-WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/a_Meta Data'))
-
-WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/a_Meta Data'))
-
-WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/a_Meta Data'))
-
-WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Meta Data Page')
-
-WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Add Meta Data'))
-
-WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Add Meta Data'))
-
-WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Add Meta Data'))
-
-WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Add Meta Data Page')
-
-WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Hospital  Gleneagles Hospital'))
-
-WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Hospital  Gleneagles Hospital'))
-
-WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Hospital  Gleneagles Hospital'))
-
-WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Meta Data Page One')
-
-WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Gleneagles Hospital,Mount Elizabeth Nov_7a570c'))
-
-WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Gleneagles Hospital,Mount Elizabeth Nov_7a570c'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Centres  Services (Main)/textarea_Social Summary_social-summary-md-KLTlN'), 
-    'Katalon Test V1 Final')
-
-WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Browse Image_col-md-12 col-xs-12 form-c_62e851'))
-
-WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Browse Image_col-md-12 col-xs-12 form-c_62e851'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Centres  Services (Main)/input_Browse Image_entres_services_main_mod_74a45f'), 
-    'Katalon Test V1 Final')
-
-WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) MetaData Page')
-
 WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Save'))
 
 WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Save'))
-
-WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Cancel'))
-
-WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Cancel'))
 
 WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Save'))
 
@@ -413,6 +247,215 @@ WebUI.waitForElementPresent(findTestObject('Object Repository/Page_Centres  Serv
     10)
 
 WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Success Button Add')
+
+WebUI.setText(findTestObject('Object Repository/Page_Centres  Services (Main)/input_Search_centres_services_main-input-search'), 
+    'Katalon Test V1 Final')
+
+WebUI.sendKeys(findTestObject('Object Repository/Page_Centres  Services (Main)/input_Search_centres_services_main-input-search'), 
+    Keys.chord(Keys.ENTER))
+
+WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Draft-button-edit'))
+
+WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Draft-button-edit'))
+
+WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Draft-button-edit'))
+
+WebUI.waitForElementPresent(findTestObject('Page_Centres  Services (Main)/h5_Edit Centres  Services (Main)'), 10)
+
+WebUI.takeFullPageScreenshotAsCheckpoint('Edit Centres & Services (Main) Page')
+
+WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Page Name_Edit'))
+
+WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Page Name_Edit'))
+
+WebUI.clearText(findTestObject('Object Repository/Page_Centres  Services (Main)/input_PageName-Edit'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Centres  Services (Main)/input_PageName-Edit'), 'Katalon Test V1 Edit')
+
+WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/label_Page Title (H1 Display)_edit'))
+
+WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/label_Page Title (H1 Display)_edit'))
+
+WebUI.clearText(findTestObject('Object Repository/Page_Centres  Services (Main)/input__H1 Display_Edit'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Centres  Services (Main)/input__H1 Display_Edit'), 'Katalon Test V1 Edit')
+
+WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Item URL_Edit'))
+
+WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Item URL_Edit'))
+
+WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Summary_Edit'))
+
+WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Summary_Edit'))
+
+WebUI.clearText(findTestObject('Object Repository/Page_Centres  Services (Main)/textarea_Summary_Edit'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Centres  Services (Main)/textarea_Summary_Edit'), 'Katalon Test V1 Edit')
+
+WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Display Enquiry CTA_Edit'))
+
+WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Display Enquiry CTA_Edit'))
+
+WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/input_Display Enquiry CTA_Edit'))
+
+WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Display Find MP CTA_Edit'))
+
+WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Display Find MP CTA_Edit'))
+
+WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/input_Display Find MP CTA_Edit'))
+
+WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/label_Main Image Alt Text_Edit'))
+
+WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/label_Main Image Alt Text_Edit'))
+
+WebUI.clearText(findTestObject('Object Repository/Page_Centres  Services (Main)/input_Main Image Alt Text_Edit'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Centres  Services (Main)/input_Main Image Alt Text_Edit'), 'Katalon Test V1 Edit')
+
+WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Additional CTA Label_Edit'))
+
+WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Additional CTA Label_Edit'))
+
+WebUI.clearText(findTestObject('Object Repository/Page_Centres  Services (Main)/input_Additional CTA Label_Edit'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Centres  Services (Main)/input_Additional CTA Label_Edit'), 'Katalon Test V1 Edit')
+
+WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Additional CTA URL_Edit'))
+
+WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Additional CTA URL_Edit'))
+
+WebUI.clearText(findTestObject('Object Repository/Page_Centres  Services (Main)/input_Additional CTA URL_Edit'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Centres  Services (Main)/input_Additional CTA URL_Edit'), 'Katalon Test V1 Edit')
+
+WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Hide Hero Image_Edit'))
+
+WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Hide Hero Image_Edit'))
+
+WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/input_Hide Hero Image_Edit'))
+
+WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Search'))
+
+WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Search'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Centres  Services (Main)/input_Search_centres_services_main-input-search'), 
+    'Katalon Test V1 Edit')
+
+WebUI.sendKeys(findTestObject('Object Repository/Page_Centres  Services (Main)/input_Search_centres_services_main-input-search'), 
+    Keys.chord(Keys.ENTER))
+
+WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Search_Button-search'))
+
+WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Search_Button-search'))
+
+WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Search By Page Name')
+
+WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Toggle Dropdown'))
+
+WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Toggle Dropdown'))
+
+WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Toggle Dropdown'))
+
+WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Search by-languange'))
+
+WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Search by-languange'))
+
+WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/a_Chinese'))
+
+WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Search By Chinese Language')
+
+WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Toggle Dropdown'))
+
+WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/a_English'))
+
+WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Search By English Language')
+
+WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Toggle Dropdown'))
+
+WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/a_Indonesian'))
+
+WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Search By Indonesian Language')
+
+WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Toggle Dropdown'))
+
+WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/a_Vietnamese'))
+
+WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Search By Vietnamese Language')
+
+WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Toggle Dropdown'))
+
+WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/a_All Languages'))
+
+WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Search By All Language')
+
+WebUI.clearText(findTestObject('Object Repository/Page_Centres  Services (Main)/input_Search_centres_services_main-input-search'))
+
+WebUI.sendKeys(findTestObject('Object Repository/Page_Centres  Services (Main)/input_Search_centres_services_main-input-search'), 
+    Keys.chord(Keys.ENTER))
+
+WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Page')
+
+WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Copy'))
+
+WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Copy'))
+
+WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Copy'))
+
+WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Button Copy Page')
+
+WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/button_CSV'))
+
+WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/button_CSV'))
+
+WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/button_CSV'))
+
+WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Button SCV Page')
+
+WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Excel'))
+
+WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Excel'))
+
+WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Excel'))
+
+WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Button Excel Page')
+
+WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/button_PDF'))
+
+WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/button_PDF'))
+
+WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/button_PDF'))
+
+WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Button PDF Page')
+
+WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Print'))
+
+WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Print'))
+
+WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Print'))
+
+WebUI.waitForPageLoad(10)
+
+WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Button Print Page')
+
+WebUI.scrollToElement(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Pagination'), 1)
+
+WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Pagination'))
+
+WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/a_Pagination-Next'))
+
+WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/a_Pagination-Next'))
+
+WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/a_Pagination-Next'))
+
+WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Page 2')
+
+WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/a_Pagination-Previous'))
+
+WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/a_Pagination-Previous'))
+
+WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/a_Pagination-Previous'))
+
+WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Page 1')
 
 WebUI.closeBrowser()
 
