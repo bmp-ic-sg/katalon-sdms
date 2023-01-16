@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>modal_Successfully Updated</name>
+   <tag></tag>
+   <elementGuidId>22862825-b2c9-46d5-bd18-e8bdf8bae85c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[2]/following::div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-xs-12.col-sm-3.alert.alert-success.bg-success.text-light.animated.fadeInDown</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4c5f2533-ea5b-4364-957d-fd4020360b41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-notify</name>
+      <type>Main</type>
+      <value>container</value>
+      <webElementGuid>e040f2c0-1d73-4394-9cf2-9eef7180ea27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-xs-12 col-sm-3 alert alert-success bg-success text-light animated fadeInDown</value>
+      <webElementGuid>507b23a2-68d7-41ad-afbd-429b858d251f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>8658c5be-1a56-43dc-9e07-4d80c3beb9ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-notify-position</name>
+      <type>Main</type>
+      <value>top-right</value>
+      <webElementGuid>1c3e87f3-765a-4af5-acae-763071e6c6e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>    ×    Successfully Updated Centres &amp; Services (Main)</value>
+      <webElementGuid>1d01519d-c7f4-4217-af0d-3ca72f9ed803</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;body body-open-menu&quot;]/div[@class=&quot;col-xs-12 col-sm-3 alert alert-success bg-success text-light animated fadeInDown&quot;]</value>
+      <webElementGuid>8b7c8973-969f-46a1-a8d0-17313f453b5c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[2]/following::div[3]</value>
+      <webElementGuid>afe705c1-4646-49f4-b98c-6d69a6050963</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[5]/following::div[3]</value>
+      <webElementGuid>fdb8b997-80ff-401e-86db-ad0da3b0824f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]</value>
+      <webElementGuid>8d241a39-92ab-4736-958d-5562933fd9ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '    ×    Successfully Updated Centres &amp; Services (Main)' or . = '    ×    Successfully Updated Centres &amp; Services (Main)')]</value>
+      <webElementGuid>ff608202-6edd-42ce-bc69-1f9f1b61d998</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Gleneagles Hospital_Edit</name>
+   <tag></tag>
+   <elementGuidId>5d858c47-b8b8-43e6-b100-f8efaf9f9193</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#centres_services_main_modal_edit-select-hospital</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='centres_services_main_modal_edit-select-hospital']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>fdca97e6-60bf-4d81-9f00-0ec97d481529</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dynamic-picker hospital-select</value>
+      <webElementGuid>84eaa5a3-9782-4c37-bf87-39b5a34064c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>centres_services_main_modal_edit-select-hospital</value>
+      <webElementGuid>7c9e429d-53fd-4a4e-9a46-d1a34485d6a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>centres_services_main_modal_edit-select-hospital</value>
+      <webElementGuid>7185a0f1-4eed-4086-8eae-9d3fd9f19046</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-width</name>
+      <type>Main</type>
+      <value>100%</value>
+      <webElementGuid>7ff09793-8468-4440-b9fc-275eea08447e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-actions-box</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>3d2ea513-247a-411b-b3b5-da4ee438394a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-98</value>
+      <webElementGuid>f3b38c15-f1f7-4aa2-889b-90e81cef513d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            Gleneagles Hospital
+        Mount Elizabeth HospitalMount Elizabeth Novena HospitalParkway East Hospital</value>
+      <webElementGuid>a69a4b6e-1db1-4ecf-bf0b-06532bafd69e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;centres_services_main_modal_edit-select-hospital&quot;)</value>
+      <webElementGuid>cadfb77c-60dc-4813-abc4-cc0e63f18c05</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='centres_services_main_modal_edit-select-hospital']</value>
+      <webElementGuid>813bbfb3-dd70-420b-8441-dbf3d8d18774</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='centres_services_main_modal_edit-basic-information-tab-content']/div[2]/div[2]/div/div/div/div/div/select</value>
+      <webElementGuid>f447cd74-ad5b-49c7-b25a-38a99b9a4dc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[14]/following::select[1]</value>
+      <webElementGuid>8b569a20-9e37-4109-9d04-42725ca2ad46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hospitals'])[4]/following::select[1]</value>
+      <webElementGuid>2451d932-89fc-4ded-ae15-750e705e12e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gleneagles Hospital'])[5]/preceding::select[1]</value>
+      <webElementGuid>07519a33-820e-4e57-a7c6-d23737773522</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select All'])[5]/preceding::select[1]</value>
+      <webElementGuid>b4714746-26e7-46b3-a6d0-263dd8edd295</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/form/div/div/div/div/div[2]/div[2]/div/div/div/div/div/select</value>
+      <webElementGuid>4a8b56c2-d9da-4ec4-891e-37aea1d6346b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'centres_services_main_modal_edit-select-hospital' and @id = 'centres_services_main_modal_edit-select-hospital' and (text() = '
+            Gleneagles Hospital
+        Mount Elizabeth HospitalMount Elizabeth Novena HospitalParkway East Hospital' or . = '
+            Gleneagles Hospital
+        Mount Elizabeth HospitalMount Elizabeth Novena HospitalParkway East Hospital')]</value>
+      <webElementGuid>7be7fb2d-ee77-47c9-b66d-422c1f7399a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

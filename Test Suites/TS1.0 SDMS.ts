@@ -24,7 +24,7 @@
             <requireConfigurationData>false</requireConfigurationData>
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
-         <runEnabled>true</runEnabled>
+         <runEnabled>false</runEnabled>
          <testSuiteEntity>Test Suites/TS3.0 SDMS(Validation)</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>

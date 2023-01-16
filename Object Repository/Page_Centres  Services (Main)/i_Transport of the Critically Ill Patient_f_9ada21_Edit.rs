@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Transport of the Critically Ill Patient_f_9ada21_Edit</name>
+   <tag></tag>
+   <elementGuidId>e5105229-104a-4060-8d4d-37d51506f9bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='edit-specialty-checkboxes']/ul/li[2]/div/span[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>0e071dcb-a470-4b4f-8d9c-5b9153af09e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-plus</value>
+      <webElementGuid>2ba8b14f-d49d-4e21-8d37-efcfbf0012b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a7385713-a6c2-4ec4-8005-e3adda94d7e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;edit-specialty-checkboxes&quot;)/ul[@class=&quot;gj-list gj-list-bootstrap&quot;]/li[@class=&quot;list-group-item&quot;]/div[1]/span[@class=&quot;gj-tree-font-awesome-expander&quot;]/i[@class=&quot;fa fa-plus&quot;]</value>
+      <webElementGuid>52d24ad1-bc6a-41a3-8cfb-94c86ce3bf5a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='edit-specialty-checkboxes']/ul/li[2]/div/span[2]/i</value>
+      <webElementGuid>3ff23f6a-5e12-4eb4-8bbc-e172d05a1a4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/form/div/div/div/div/div[2]/div[3]/div[2]/div/div/div/div/div/div/div[2]/div/ul/li[2]/div/span[2]/i</value>
+      <webElementGuid>ded60233-7b7f-47aa-890f-da6e955de5ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Clinical Embryology_Edit</name>
+   <tag></tag>
+   <elementGuidId>e207854c-e2c4-45b3-a711-6a5a6b959f1c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#centres_services_main_modal_edit-select-service-provider-types</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='centres_services_main_modal_edit-select-service-provider-types']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f6a5614c-4c2a-4f90-9b43-e2dd332c6e05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dynamic-picker service-provider-types-select ignore-trigger</value>
+      <webElementGuid>e9db0ce6-3c4c-4f99-bd3d-90a59a3b5d09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>centres_services_main_modal_edit-select-service-provider-types</value>
+      <webElementGuid>252b16d1-1acd-419d-a63b-3a2909d64eb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>centres_services_main_modal_edit-select-service-provider-types</value>
+      <webElementGuid>d358d6f2-ef41-4829-95b7-750565f31763</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-width</name>
+      <type>Main</type>
+      <value>100%</value>
+      <webElementGuid>ac31b3c6-bfd0-490a-b34c-61ad07ecd6be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-actions-box</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>3dd32b28-7a7a-447a-aa1e-3fb5e1ad20bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-98</value>
+      <webElementGuid>250b3b2f-3d6f-4ef6-bec3-faec436ee9d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            Clinical Embryology
+        Medical AdvisorNutrition and DieteticsOccupational TherapyPhysiotherapyPodiatryPsychologySpeech Therapy</value>
+      <webElementGuid>a3a5ed38-bb5a-48d4-b93a-37b3c13414b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;centres_services_main_modal_edit-select-service-provider-types&quot;)</value>
+      <webElementGuid>e5360d9c-3d45-49a9-acf5-77589677ad94</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='centres_services_main_modal_edit-select-service-provider-types']</value>
+      <webElementGuid>45001279-e5eb-40c1-89b5-db21790d9d90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='centres_services_main_modal_edit-basic-information-tab-content']/div[2]/div[3]/div[2]/div[2]/div/div/div/select</value>
+      <webElementGuid>6858ba7d-3568-4c92-966a-46f3dae8f9b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Service Provider Types'])[4]/following::select[1]</value>
+      <webElementGuid>4ec6c66e-5fdf-4196-967b-f3778267c3cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Done'])[2]/following::select[1]</value>
+      <webElementGuid>df221ffd-6b6b-4ce2-bce5-7789c1d52de0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clinical Embryology'])[5]/preceding::select[1]</value>
+      <webElementGuid>285024c3-f024-4b3d-b836-21c72d756bab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select All'])[6]/preceding::select[1]</value>
+      <webElementGuid>67c721b1-5fd3-4800-ac52-a4872d1009fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/form/div/div/div/div/div[2]/div[3]/div[2]/div[2]/div/div/div/select</value>
+      <webElementGuid>be335f63-7bba-4f62-92d5-828d9619f5cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'centres_services_main_modal_edit-select-service-provider-types' and @id = 'centres_services_main_modal_edit-select-service-provider-types' and (text() = '
+            Clinical Embryology
+        Medical AdvisorNutrition and DieteticsOccupational TherapyPhysiotherapyPodiatryPsychologySpeech Therapy' or . = '
+            Clinical Embryology
+        Medical AdvisorNutrition and DieteticsOccupational TherapyPhysiotherapyPodiatryPsychologySpeech Therapy')]</value>
+      <webElementGuid>6f5e2f63-8a98-4692-80db-6db3fe1160e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

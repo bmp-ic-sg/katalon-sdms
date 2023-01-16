@@ -17,3 +17,37 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Published_Detail'))
+
+WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Published_Detail'))
+
+WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Published_Detail'))
+
+WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Close_Published_Detail'))
+
+WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Close_Published_Detail'))
+
+WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/span_Button-close_Published_Detail'))
+
+WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Published_NewRevision'))
+
+WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Published_NewRevision'))
+
+WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Published_NewRevision'))
+
+WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Revision Page')
+
+WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/button_New Revision'))
+
+WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/button_New Revision'))
+
+WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/button_New Revision'))
+
+WebUI.waitForElementPresent(findTestObject('Page_Centres  Services (Main)/div_Successfully create new revision'), 10)
+
+WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Success Revision Page')
+
+WebUI.closeBrowser()
+

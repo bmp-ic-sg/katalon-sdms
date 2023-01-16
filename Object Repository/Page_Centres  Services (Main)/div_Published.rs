@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Published</name>
+   <tag></tag>
+   <elementGuidId>17cf8497-d17f-4ae3-b447-793a15309105</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='centresServicesMainDT']/tbody/tr[9]/td[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3bac0932-46d3-4628-9c59-9d172b90e20a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex h-100</value>
+      <webElementGuid>cb4caa61-f6dc-485e-9ea0-26acc90632da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Published</value>
+      <webElementGuid>80c551c4-edc1-4938-b893-ddddc5068d88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;centresServicesMainDT&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;sorting_1&quot;]/div[@class=&quot;d-flex h-100&quot;]</value>
+      <webElementGuid>ce071439-af33-4ef1-9a9a-5510fb0c8823</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='centresServicesMainDT']/tbody/tr[9]/td[4]/div</value>
+      <webElementGuid>12125bbc-1aa0-4c22-9a56-39f89daf84d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon Test V1 Edit'])[1]/following::div[1]</value>
+      <webElementGuid>202bc546-72fd-4b39-9d2d-fcef588896c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Published'])[6]/following::div[1]</value>
+      <webElementGuid>11d4ffce-68dd-435e-9fec-bf9490bd5168</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Parkway East Paediatric Clinic'])[1]/preceding::div[3]</value>
+      <webElementGuid>26c42588-0451-4b0b-b253-eaf97a60b4d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[9]/td[4]/div</value>
+      <webElementGuid>6792557a-917c-4d77-a749-c5d8ead9d32a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Published' or . = 'Published')]</value>
+      <webElementGuid>e8a52ed7-451c-4593-8100-1a1d73614ac2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

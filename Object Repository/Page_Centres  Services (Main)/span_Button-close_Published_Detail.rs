@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Button-close_Published_Detail</name>
+   <tag></tag>
+   <elementGuidId>02a22de1-b046-47d2-b520-93eb7ec8d621</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='centres_services_main_modal_translate-button-close']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#centres_services_main_modal_translate-button-close > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5742b28c-2e90-4fdd-84e0-444b1333d371</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5c31018a-53b7-4c03-b24b-f954b383e0e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>×</value>
+      <webElementGuid>ff3a03e9-904e-444c-8649-72681a33bfcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;centres_services_main_modal_translate-button-close&quot;)/span[1]</value>
+      <webElementGuid>91a8ba6a-d09d-48c5-af17-712469b632e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='centres_services_main_modal_translate-button-close']/span</value>
+      <webElementGuid>38157511-d4ef-43d7-adc1-c5560dfdb05c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Centres &amp; Services (Main)'])[5]/following::span[1]</value>
+      <webElementGuid>cb023edd-7da1-46a0-8ea1-cb69ef76bc8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sending item for translation'])[1]/following::span[1]</value>
+      <webElementGuid>98cfab28-1d07-4d6b-b3ea-84f2b065c72c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Basic Information'])[3]/preceding::span[1]</value>
+      <webElementGuid>cb33e350-5fe6-4053-9eaa-0096bd97ce84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Meta Data'])[3]/preceding::span[1]</value>
+      <webElementGuid>11b88ee2-6d50-45f9-858d-c9d11ffabb4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div[2]/button/span</value>
+      <webElementGuid>6bf4ed89-e2ec-4e08-9de5-81cade10cfae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '×' or . = '×')]</value>
+      <webElementGuid>d4103fd2-c90f-4284-85e7-6fa9cac52920</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

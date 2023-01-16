@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Save and Close_Edit</name>
+   <tag></tag>
+   <elementGuidId>21e333c6-3056-44ad-bfc0-5f644f0d47b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#centres_services_main_modal_edit-button-saveAndClose</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='centres_services_main_modal_edit-button-saveAndClose']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ebcb1f91-9a6d-4cd4-bdb6-9720550bbe92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>babbf6ec-b409-458d-abf2-ad477cc6c25b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn mat-button btn-secondary iconed-button px-4 btn-close</value>
+      <webElementGuid>343e436d-e25b-4978-8cad-18f50cb8e9cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>centres_services_main_modal_edit-button-saveAndClose</value>
+      <webElementGuid>fdf00075-59c6-4904-82d9-7619b250ef1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>centres_services_main_modal_edit-button-saveAndClose</value>
+      <webElementGuid>b28661e8-f557-427b-897b-b1de91687187</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            Save and Close
+                        </value>
+      <webElementGuid>459cadcc-76b0-401f-a0cf-9b2b6811e35a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;centres_services_main_modal_edit-button-saveAndClose&quot;)</value>
+      <webElementGuid>a4a55c1a-4c73-4092-bd63-27d6796106d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='centres_services_main_modal_edit-button-saveAndClose']</value>
+      <webElementGuid>40777313-0ff3-4795-af75-e3a63231284d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='edit-centres-services-main-form']/div[3]/button[2]</value>
+      <webElementGuid>fccfcfb5-ba77-4f94-acaf-50ef245a1cd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[2]/following::button[1]</value>
+      <webElementGuid>ec439997-85d7-48ad-b2f8-bc489d1cfc8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[3]/following::button[2]</value>
+      <webElementGuid>520f92b3-2fa2-4845-aa72-e173885d49d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sending item for translation'])[1]/preceding::button[1]</value>
+      <webElementGuid>93fcd64f-df10-492f-a2cf-455019d20adf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button[2]</value>
+      <webElementGuid>5933a4b6-c834-4c85-9c30-15e7ebbf9594</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'centres_services_main_modal_edit-button-saveAndClose' and @name = 'centres_services_main_modal_edit-button-saveAndClose' and (text() = '
+                            Save and Close
+                        ' or . = '
+                            Save and Close
+                        ')]</value>
+      <webElementGuid>489bbc9f-8ae1-4c98-a285-99144d7e3c43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

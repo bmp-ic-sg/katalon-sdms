@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Successfully Unpublish</name>
+   <tag></tag>
+   <elementGuidId>d463d989-a4a3-43e1-84be-75e5c97d5135</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[2]/following::div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-xs-12.col-sm-3.alert.alert-success.bg-success.text-light.animated.fadeInDown</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f01be8df-2040-4bd2-b23c-3c98f3001783</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-notify</name>
+      <type>Main</type>
+      <value>container</value>
+      <webElementGuid>9de3a362-c22c-4653-99fb-e2bd579d368c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-xs-12 col-sm-3 alert alert-success bg-success text-light animated fadeInDown</value>
+      <webElementGuid>e25af03c-fe0f-4a97-ae07-09de49d27063</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>7d6b0f4a-2485-47ab-a85d-03fcbb3b40b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-notify-position</name>
+      <type>Main</type>
+      <value>top-right</value>
+      <webElementGuid>9b5d79b8-3f75-4124-a4ba-3f7f33c02696</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>    ×    Successfully Unpublish Centres &amp; Services (Main)</value>
+      <webElementGuid>efae1a95-3fdd-4c5c-8980-a131ab06e3fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;body body-open-menu&quot;]/div[@class=&quot;col-xs-12 col-sm-3 alert alert-success bg-success text-light animated fadeInDown&quot;]</value>
+      <webElementGuid>9f01236e-e2ae-457e-a298-1fd219d6b654</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[2]/following::div[3]</value>
+      <webElementGuid>c57e42b3-44bb-418f-969c-accd655f45aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[5]/following::div[3]</value>
+      <webElementGuid>d6442f60-c8eb-4544-9cb3-6f87e2cc0bf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]</value>
+      <webElementGuid>7f921042-1e71-4de3-b9aa-074bb9a32b87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '    ×    Successfully Unpublish Centres &amp; Services (Main)' or . = '    ×    Successfully Unpublish Centres &amp; Services (Main)')]</value>
+      <webElementGuid>95d8038e-13cf-4b43-bbca-b69a25fe26c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

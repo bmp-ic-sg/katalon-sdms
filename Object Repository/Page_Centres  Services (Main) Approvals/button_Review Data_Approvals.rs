@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Review Data_Approvals</name>
+   <tag></tag>
+   <elementGuidId>e46d5332-937b-4841-b043-92c286beaa01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='centresServicesMainDT']/tbody/tr/td[4]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-button.btn-primary.changes-centres-services-main-button.mr-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ab939dbc-841e-4c8a-9a8e-5a349bccf6d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-button btn-primary changes-centres-services-main-button mr-1</value>
+      <webElementGuid>0519acb3-de29-4c30-be3c-0a0cf24fadd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>6e019451-d90e-47d1-b229-cda8b0cd479f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#changes-centres-services-main-modal</value>
+      <webElementGuid>31e4d089-eb16-47c1-91f1-6f777ae6a430</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>   Review Data</value>
+      <webElementGuid>c5edd152-4a47-4a46-acda-9646abe43e35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;centresServicesMainDT&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[4]/button[@class=&quot;mat-button btn-primary changes-centres-services-main-button mr-1&quot;]</value>
+      <webElementGuid>ff93298d-852e-4ccd-bb44-ff5b3655aee7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='centresServicesMainDT']/tbody/tr/td[4]/button</value>
+      <webElementGuid>deea86e4-b316-432b-831f-19d03b63a1ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon Test V1 Final'])[1]/following::button[1]</value>
+      <webElementGuid>d1c9180a-3d7d-4d73-9afd-8b83c910d578</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::button[1]</value>
+      <webElementGuid>ab0f3bb8-e436-4df9-a7ee-26186939840c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 1 to 1 of 1 entries'])[1]/preceding::button[3]</value>
+      <webElementGuid>1f49517e-02de-4816-9e0c-e8cada6372f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Review Data']/parent::*</value>
+      <webElementGuid>3302bb75-211a-4a6c-9ae0-742c2c2b7715</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/button</value>
+      <webElementGuid>22ca0a59-64b2-423e-803a-65b8991ae039</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '   Review Data' or . = '   Review Data')]</value>
+      <webElementGuid>a1de1971-2a9e-4322-9411-bfdcc8ca60f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

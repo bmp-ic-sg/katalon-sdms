@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Abdul Kader Ansari_Edit</name>
+   <tag></tag>
+   <elementGuidId>71edd4b4-7bbd-45a0-ab7a-ab0c4e3ecc19</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='edit-medical-professional-ahp-listing-mode']/div/div/div/button/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1496c760-a502-4a13-8cbd-a7bc9a6eafca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filter-option-inner-inner</value>
+      <webElementGuid>1ae9b1a0-4aab-4514-8098-0a7d8c902904</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Abdul Kader Ansari</value>
+      <webElementGuid>8e899cbf-7fb2-4a0b-b89f-1206ffa553ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;edit-medical-professional-ahp-listing-mode&quot;)/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-md-12 col-xs-12 form-container&quot;]/div[@class=&quot;dropdown bootstrap-select show-tick dynamic-picker-2 medical-professional-select ignore-trigger dropup&quot;]/button[@class=&quot;btn dropdown-toggle btn-light&quot;]/div[@class=&quot;filter-option&quot;]/div[@class=&quot;filter-option-inner&quot;]/div[@class=&quot;filter-option-inner-inner&quot;]</value>
+      <webElementGuid>b0967e09-d026-42e0-8881-379d2e420b91</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='edit-medical-professional-ahp-listing-mode']/div/div/div/button/div/div/div</value>
+      <webElementGuid>f0ad755c-c5f3-45dc-af40-eca69deed276</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Medical Professional'])[6]/following::div[4]</value>
+      <webElementGuid>179ebdf1-1862-488b-ac5d-8ca46ae170f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[16]/following::div[7]</value>
+      <webElementGuid>afe2e41a-07cc-4d63-af59-8a9d1a45ccca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select All'])[8]/preceding::div[1]</value>
+      <webElementGuid>6a6315d5-ae54-408e-b06e-1386168db247</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deselect All'])[8]/preceding::div[1]</value>
+      <webElementGuid>d4e9b324-d4ea-4e3c-8f20-5ac7fdf8d39f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/form/div/div/div/div/div[2]/div[3]/div[3]/div[2]/div/div/div/button/div/div/div</value>
+      <webElementGuid>d41516e2-74bf-404a-8ba8-3f19f94e31e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Abdul Kader Ansari' or . = 'Abdul Kader Ansari')]</value>
+      <webElementGuid>edbe058c-74fb-4b65-b70c-be8a791465b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

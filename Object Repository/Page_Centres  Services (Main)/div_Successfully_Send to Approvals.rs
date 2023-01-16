@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Successfully_Send to Approvals</name>
+   <tag></tag>
+   <elementGuidId>2151cc2c-8cea-4a5a-af5e-ba8c9704f7dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[2]/following::div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-xs-12.col-sm-3.alert.alert-success.bg-success.text-light.animated.fadeInDown.fadeOutUp</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8d6eb5d4-0f70-4d2d-ac62-15a4a35e38a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-notify</name>
+      <type>Main</type>
+      <value>container</value>
+      <webElementGuid>827ccfb9-1c96-4c0e-9447-29833e9e3dc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-xs-12 col-sm-3 alert alert-success bg-success text-light animated fadeInDown fadeOutUp</value>
+      <webElementGuid>c6992a80-08e2-4421-8f7f-76b8c7c6a9c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>73d88307-007c-4b0f-b498-a3f07e1ff650</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-notify-position</name>
+      <type>Main</type>
+      <value>top-right</value>
+      <webElementGuid>6707e386-d848-4d7a-9bb4-91725ba8ae60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>    ×    Successfully send Centres &amp; Services (Main) for approval</value>
+      <webElementGuid>c5c167be-af2c-45a4-802b-b8f46e65dafb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;body body-open-menu&quot;]/div[@class=&quot;col-xs-12 col-sm-3 alert alert-success bg-success text-light animated fadeInDown fadeOutUp&quot;]</value>
+      <webElementGuid>169742fc-7006-4c11-b772-956cd76b696a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[2]/following::div[3]</value>
+      <webElementGuid>424d3c54-3555-463d-845f-3294094aa6bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[5]/following::div[3]</value>
+      <webElementGuid>518fcdb9-368d-4214-ae19-5c6103da22f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]</value>
+      <webElementGuid>78c017d3-a692-4ad1-a875-9f2dbb8d9b0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '    ×    Successfully send Centres &amp; Services (Main) for approval' or . = '    ×    Successfully send Centres &amp; Services (Main) for approval')]</value>
+      <webElementGuid>6678ce5a-ee62-439f-86fc-4b9e17600d8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

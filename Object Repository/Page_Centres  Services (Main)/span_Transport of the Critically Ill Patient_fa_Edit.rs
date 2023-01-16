@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Transport of the Critically Ill Patient_fa_Edit</name>
+   <tag></tag>
+   <elementGuidId>b500b2ce-b520-4b07-8263-fe7579b80ff8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='edit-specialty-checkboxes']/ul/li[2]/div/span[3]/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b0de6139-648a-4a6b-918e-c5e001779761</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa</value>
+      <webElementGuid>d67435a6-1859-4069-b707-5198903d2498</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;edit-specialty-checkboxes&quot;)/ul[@class=&quot;gj-list gj-list-bootstrap&quot;]/li[@class=&quot;list-group-item&quot;]/div[1]/span[3]/label[@class=&quot;gj-checkbox-bootstrap gj-checkbox-bootstrap-4 gj-checkbox-fontawesome has-data&quot;]/span[@class=&quot;fa&quot;]</value>
+      <webElementGuid>7667a7b3-1529-4761-bfa7-f4b57bc0f914</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='edit-specialty-checkboxes']/ul/li[2]/div/span[3]/label/span</value>
+      <webElementGuid>2e542458-29ef-4e40-9dca-16d768b4cdc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/form/div/div/div/div/div[2]/div[3]/div[2]/div/div/div/div/div/div/div[2]/div/ul/li[2]/div/span[3]/label/span</value>
+      <webElementGuid>a3ee03fe-1201-4559-840a-ba3c0d4644fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
