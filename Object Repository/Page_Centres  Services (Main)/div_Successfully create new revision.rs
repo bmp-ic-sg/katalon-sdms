@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>70bde190-910d-4de0-8fb5-d41bd792b04b</webElementGuid>
+      <webElementGuid>354bd49e-fb0e-4bc7-9552-0813d0ce3221</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>data-notify</name>
       <type>Main</type>
       <value>container</value>
-      <webElementGuid>203a189b-6c1d-4a01-8a0c-3e7d65153089</webElementGuid>
+      <webElementGuid>df36063b-5d8f-4c62-b93b-5ec840720559</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>col-xs-12 col-sm-3 alert alert-success bg-success text-light animated fadeInDown</value>
-      <webElementGuid>7fada516-0dd5-49ae-bb6e-4ce313e69853</webElementGuid>
+      <webElementGuid>31abbf1e-bc83-4e4a-bdbb-a04b29dfe430</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>alert</value>
-      <webElementGuid>7d00893a-19c1-4587-aa32-e03184a1c76a</webElementGuid>
+      <webElementGuid>73e9f87c-d8a5-4b51-8882-5c66e0c7b55b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-notify-position</name>
       <type>Main</type>
       <value>top-right</value>
-      <webElementGuid>5f320608-8605-468a-b136-8103e38e9326</webElementGuid>
+      <webElementGuid>f410a99b-a983-451e-a9c0-af5510ec069d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>    ×    Successfully create new revision of Centres &amp; Services (Main)</value>
-      <webElementGuid>a2217675-ac09-44e3-ba61-f123b37153cd</webElementGuid>
+      <webElementGuid>48837c3b-602f-4725-a454-9827c32415e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;body body-open-menu&quot;]/div[@class=&quot;col-xs-12 col-sm-3 alert alert-success bg-success text-light animated fadeInDown&quot;]</value>
-      <webElementGuid>4f5b4550-5265-40f5-b777-8ac47f37e15c</webElementGuid>
+      <webElementGuid>7a34ab39-09df-475a-8a33-30f6f12942b0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[2]/following::div[3]</value>
-      <webElementGuid>08fc1ade-557c-4489-893c-ba5ad391fd71</webElementGuid>
+      <webElementGuid>4e2870c9-d467-47ce-be0f-aaa455008f7c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[5]/following::div[3]</value>
-      <webElementGuid>55eca655-246f-46aa-8b29-07b0894dd94b</webElementGuid>
+      <webElementGuid>92e133ed-e406-4dca-ad3f-7008b302ed03</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]</value>
-      <webElementGuid>209c8b6f-66ac-49f9-af33-f1b1f0ad3e7f</webElementGuid>
+      <webElementGuid>557f37e3-85e2-44c2-8641-378d9b88ae3f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '    ×    Successfully create new revision of Centres &amp; Services (Main)' or . = '    ×    Successfully create new revision of Centres &amp; Services (Main)')]</value>
-      <webElementGuid>917f51ac-89a7-4aa4-a1ad-33d4284692d9</webElementGuid>
+      <webElementGuid>335fd718-f6ee-4a54-9be9-81456692dcd5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

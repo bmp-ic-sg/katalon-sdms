@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Send For Approval</name>
+   <tag></tag>
+   <elementGuidId>1d67da1b-fe03-4281-82f3-e7adf9098471</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='centres_services_main_modal_approval-button-send-approval']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#centres_services_main_modal_approval-button-send-approval > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1425029f-01d7-4242-b88f-5b7f19f170da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Send For Approval</value>
+      <webElementGuid>413a839b-e8bc-4fbe-8e06-64284059bb0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;centres_services_main_modal_approval-button-send-approval&quot;)/span[1]</value>
+      <webElementGuid>d32f2c4e-87cf-47ad-a19b-ccd481b97858</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='centres_services_main_modal_approval-button-send-approval']/span</value>
+      <webElementGuid>7bc8e9d2-1a91-4373-8e10-e428f2423741</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unpublish Centres &amp; Services (Main)'])[1]/preceding::span[2]</value>
+      <webElementGuid>22f6c7aa-2202-43ea-af36-a6824087cb0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div/form/div[2]/button/span</value>
+      <webElementGuid>6f336216-638a-4d91-a56e-3e328ff66a79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Send For Approval' or . = 'Send For Approval')]</value>
+      <webElementGuid>b2ea6846-205c-44f6-82f0-2d73f6f481d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

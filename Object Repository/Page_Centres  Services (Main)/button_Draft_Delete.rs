@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c4a8d020-454e-4ad0-ade4-4ff16cddb50a</webElementGuid>
+      <webElementGuid>9b537b9a-c6cf-4b87-a8d7-67abcaa799a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9039e4c9-1f34-4254-b945-bfb058a267a4</webElementGuid>
+      <webElementGuid>cf7069db-907e-4891-b35e-639f5ccaff31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-button btn-only-icon btn-danger delete-centres-services-main-button</value>
-      <webElementGuid>23a1c4d3-b3ec-4f9f-8c2c-c21ade078226</webElementGuid>
+      <webElementGuid>7dede43a-2a41-40d9-aef2-01f92eab9de5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>centres_services_main-button-delete</value>
-      <webElementGuid>d56ea45e-2bb7-4841-8ee0-dada502f0a8e</webElementGuid>
+      <webElementGuid>12622b3d-ebaa-4f68-8686-4f1432384ba7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>name</name>
       <type>Main</type>
       <value>centres_services_main-button-delete</value>
-      <webElementGuid>d3b44d2e-f4c3-4ca3-96a7-e39d0fae4788</webElementGuid>
+      <webElementGuid>6478f4a1-d24b-4873-b9b5-48d84bd84167</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>modal</value>
-      <webElementGuid>d9e75b2a-28f3-4557-aa84-dee865fdfb1d</webElementGuid>
+      <webElementGuid>862c6bb3-641a-4285-a706-3e0e9efeb98b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>data-target</name>
       <type>Main</type>
       <value>#delete-centres-services-main-modal</value>
-      <webElementGuid>81dc598e-ec93-4cfa-b758-44fc15cab29a</webElementGuid>
+      <webElementGuid>01b1e374-ef4d-47a5-917d-ea6e34073cf0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;centres_services_main-button-delete&quot;)</value>
-      <webElementGuid>80b2689d-9089-462a-b997-5786f9390849</webElementGuid>
+      <webElementGuid>1d876156-1f1f-4806-baf1-cba71e45e484</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='centres_services_main-button-delete']</value>
-      <webElementGuid>4aa0461a-64ee-4d58-bbe0-35eee99f9ec0</webElementGuid>
+      <webElementGuid>8a51645f-f9bf-423b-853e-300ff0d4e5c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='centresServicesMainDT']/tbody/tr/td[6]/span[2]/button</value>
-      <webElementGuid>93fda412-6a51-4e1f-80e1-717650453684</webElementGuid>
+      <webElementGuid>92171766-c497-40fd-b9d8-d7ebf92a04b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Draft'])[1]/following::button[3]</value>
-      <webElementGuid>f820cef9-4096-4045-b5ea-7cb1444532e5</webElementGuid>
+      <webElementGuid>4e7ae484-bbc5-438e-b7ee-81cc021213e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,31 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon Test V1 Edit'])[1]/following::button[3]</value>
-      <webElementGuid>2dd1fc8c-6040-4980-9bb5-1c99aa445d4a</webElementGuid>
+      <webElementGuid>c2a8a5a1-594b-4bc4-b853-eba4fb458ed9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 1 to 1 of 1 entries (filtered from 18 total entries)'])[1]/preceding::button[1]</value>
+      <webElementGuid>fb6ebeda-5f73-4067-b097-5d910a9aef13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/button</value>
+      <webElementGuid>52d5b310-8ee9-487b-b6a5-3b314bf469e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'centres_services_main-button-delete' and @name = 'centres_services_main-button-delete']</value>
+      <webElementGuid>47fd89d1-67c6-4b59-a6d9-394c4a8cf446</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,22 +143,6 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 1 to 1 of 1 entries (filtered from 16 total entries)'])[1]/preceding::button[1]</value>
       <webElementGuid>1a813b4b-543d-4fb0-bbec-4d061c9d4dd8</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//span[2]/button</value>
-      <webElementGuid>199e12f1-e199-43ae-8cc2-be0628657ef1</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'button' and @id = 'centres_services_main-button-delete' and @name = 'centres_services_main-button-delete']</value>
-      <webElementGuid>d32e33f4-89a2-4250-9016-1236ce7f26c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

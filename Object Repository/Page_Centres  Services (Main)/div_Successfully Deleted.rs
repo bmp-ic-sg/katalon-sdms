@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>bc2bf96a-f3e9-43e2-bcd1-421f71db38d3</webElementGuid>
+      <webElementGuid>d2aabc93-73a8-4fdc-894d-88c276c64c8b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>data-notify</name>
       <type>Main</type>
       <value>container</value>
-      <webElementGuid>791f1bef-1ddf-4be5-bfaa-3775a3acf764</webElementGuid>
+      <webElementGuid>84f64855-0c10-4546-b1b9-b9454cad739a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>col-xs-12 col-sm-3 alert alert-success bg-success text-light animated fadeInDown</value>
-      <webElementGuid>5abdc0a5-9850-4893-b29e-375900b810ce</webElementGuid>
+      <webElementGuid>b1be8191-b3c8-4fbe-ba13-58435b804afc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>alert</value>
-      <webElementGuid>ef0704f8-7d3e-4190-8360-809507373773</webElementGuid>
+      <webElementGuid>f50c9ce4-ae5b-48a0-87fa-f68811e79f4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-notify-position</name>
       <type>Main</type>
       <value>top-right</value>
-      <webElementGuid>055ea37f-713a-49b3-b31f-655b7f749672</webElementGuid>
+      <webElementGuid>b7b229b9-044f-4be7-807a-b2ac6b1b15b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>    ×    Successfully Deleted Centres &amp; Services (Main)</value>
-      <webElementGuid>74d0cd8a-64d0-40cc-a18e-bda51b485511</webElementGuid>
+      <webElementGuid>cb62756c-7d73-4056-9fcb-af621e9c33e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;body body-open-menu&quot;]/div[@class=&quot;col-xs-12 col-sm-3 alert alert-success bg-success text-light animated fadeInDown&quot;]</value>
-      <webElementGuid>09fc1194-3e17-4aac-ab5b-e294e3c228d4</webElementGuid>
+      <webElementGuid>a0e017cc-d903-43f3-8a8c-90d2ebae9180</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[2]/following::div[3]</value>
-      <webElementGuid>8a7b1597-62bf-4d00-83c3-c14635cb5727</webElementGuid>
+      <webElementGuid>06c150db-1f9c-4950-aa4c-80f9ec2f1a78</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[5]/following::div[3]</value>
-      <webElementGuid>3e9e9123-c1f6-40d4-a633-c8d1ec7ef9d8</webElementGuid>
+      <webElementGuid>7edfdc3d-cdbc-4454-ae04-0180d12b60c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]</value>
-      <webElementGuid>09788ad9-f22e-4691-99e3-64ae72d004c6</webElementGuid>
+      <webElementGuid>4e4ba1f4-3bd1-4485-98f5-7b38a13e1eed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '    ×    Successfully Deleted Centres &amp; Services (Main)' or . = '    ×    Successfully Deleted Centres &amp; Services (Main)')]</value>
-      <webElementGuid>66eaa09f-ef7c-40de-85fd-67001acbc5f4</webElementGuid>
+      <webElementGuid>a00ebb76-4443-44c8-bcdb-d922e82c3176</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
