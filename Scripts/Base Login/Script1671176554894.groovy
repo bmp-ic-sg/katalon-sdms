@@ -19,10 +19,7 @@ import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
 WebUI.comment('')
 
 'Start'
-WebUI.openBrowser('')
-
-'Enter SDMS URL'
-WebUI.navigateToUrl('https://uat.azlabs.sg/sdms')
+WebUI.openBrowser(GlobalVariable.baseUrl)
 
 'Enter "UserName" field'
 WebUI.setText(findTestObject('Object Repository/Page_Parkway Pantai - Login/userName'), 'sdmsAdmin')

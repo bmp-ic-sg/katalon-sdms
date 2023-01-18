@@ -588,23 +588,31 @@ WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/div_
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Centres  Services (Main)/select_Gleneagles Hospital_Edit'), 
     '2e3aee33-96d4-416c-8da6-1ff62e738955', true)
 
+'Click edit "Service Provider Types" dropdown field to chooice Service Provider Types'
 WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Service Provider Types_Edit'))
 
+'Focus find area "Service Provider Types" dropdown field'
 WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Service Provider Types_Edit'))
 
+'"Service Provider Types" dropdown field'
 WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Service Provider Types_Edit'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Centres  Services (Main)/select_Clinical Embryology_Edit'), 
     'c353c65b-e40a-4d4f-b6e0-5cc198c7c572', true)
 
+'Focus find area "Service Provider Types" dropdown field edit'
 WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Service Provider Types_Edit'))
 
+'"Service Provider Types" dropdown field edit'
 WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Service Provider Types_Edit'))
 
+'Focus find area "Specialties" field edit'
 WebUI.focus(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Specialties_Edit'))
 
+'"Specialties" field edit'
 WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Specialties_Edit'))
 
+'Click edit "Specialties" field to chooice Specialties'
 WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Selected 2 specialties_Edit'))
 
 WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/span_Transport of the Critically Ill Patient_fa_Edit'))

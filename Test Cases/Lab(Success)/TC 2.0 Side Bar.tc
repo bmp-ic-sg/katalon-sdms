@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC2.0 Success LogOut</name>
+   <name>TC 2.0 Side Bar</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>e3cb5fb2-bc09-4e42-a0f3-78c4a41ee74f</testCaseGuid>
+   <testCaseGuid>62259809-1f73-437a-976a-04a048bde4bf</testCaseGuid>
 </TestCaseEntity>

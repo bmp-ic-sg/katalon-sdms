@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if users can create new data Centres &amp; Services (Main).</description>
+   <name>TC 3.1 Centres and Services (Main) Add</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>54680ca4-4560-489b-93c6-ee54a73e4f21</testCaseGuid>
+</TestCaseEntity>

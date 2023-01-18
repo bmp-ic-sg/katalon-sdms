@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if users can search, search by language and pagination Centres &amp; Services (Main).</description>
+   <name>TC 3.5 Centres and Services (Main) Home</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8919c7d4-02fa-4edc-9f01-0382059cf7a8</testCaseGuid>
+</TestCaseEntity>

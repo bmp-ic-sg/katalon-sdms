@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if users can send item to approvals page Centres &amp; Services (Main).</description>
+   <name>TC 3.6 Centres and Services (Main) Send AP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ade6229f-c570-4c42-b7ec-6e052060f31e</testCaseGuid>
+</TestCaseEntity>

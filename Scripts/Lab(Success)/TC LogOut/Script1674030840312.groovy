@@ -18,6 +18,7 @@ import internal.GlobalVariable as GlobalVariable
 'Story: Verify if users can logOut successful.\n\nRequired:\n1. Email already register\n2. Password\n\nStep :\n1. Open browser and enter SDMS URL\n2. Page redirected to "Login" page\n3. Enter email and password \n4. Click "Login" button\n5. Page redirected to "Home" page\n6. Click "Welcome" page and click button logOut\n7. LogOut success'
 WebUI.comment('')
 
+'User must be logged in, To login refer to TC 1.0 Login.'
 WebUI.callTestCase(findTestCase('Base Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
 'Page navigated to "Home" page'
