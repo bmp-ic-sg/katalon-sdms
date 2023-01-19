@@ -334,7 +334,7 @@ WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Serv
 WebUI.click(findTestObject('Page_Centres  Services (Main)/button_Save and Close_Edit'))
 
 'Page navigated to the Edit Success Page'
-WebUI.waitForElementPresent(findTestObject('Page_Centres  Services (Main)/modal_Successfully Updated'), 30)
+WebUI.waitForElementPresent(findTestObject('Page_Centres  Services (Main)/modal_Successfully Updated'), 5)
 
 'Edit Success Page'
 WebUI.takeFullPageScreenshotAsCheckpoint('Success Edit Page')

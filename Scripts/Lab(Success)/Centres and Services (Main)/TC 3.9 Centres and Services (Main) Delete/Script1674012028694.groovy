@@ -65,7 +65,7 @@ WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/butt
 
 'Page navigated to "Centres & Services (Main)" page'
 WebUI.waitForElementPresent(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Successfully Deleted'), 
-    30)
+    3)
 
 '"Centres & Services (Main)" success delete data'
 WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Success Delete Page')

@@ -85,7 +85,7 @@ WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/butt
 
 'Page navigated to "Success UnPublish" page'
 WebUI.waitForElementPresent(findTestObject('Object Repository/Page_Centres  Services (Main)/div_Successfully Unpublish'), 
-    30)
+    5)
 
 '"Success UnPublish" page'
 WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Success Unpublish Page')

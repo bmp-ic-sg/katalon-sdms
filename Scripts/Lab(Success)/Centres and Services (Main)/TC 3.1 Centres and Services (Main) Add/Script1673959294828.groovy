@@ -29,6 +29,8 @@ WebUI.takeFullPageScreenshotAsCheckpoint('Home Page')
 'User must be click side bar, to side bar refer to TC 2.0 Side Bar'
 WebUI.callTestCase(findTestCase('Base Side Bar'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.waitForPageLoad(10)
+
 '"Centres  Services (Main)" page'
 WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Default Page')
 
@@ -42,7 +44,7 @@ WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Serv
 WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Add Centres  Services (Main)'))
 
 'Page navigated to "Add Centres & Services (Main)" page'
-WebUI.waitForPageLoad(10)
+WebUI.waitForElementPresent(findTestObject('Page_Centres  Services (Main)/div_Page Name'), 10)
 
 '"Add Centres & Services (Main)" page'
 WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Add Page')

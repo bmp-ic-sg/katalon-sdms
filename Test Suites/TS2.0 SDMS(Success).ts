@@ -12,7 +12,7 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>a328facb-1d60-416b-b29f-a11c6c22f45a</testSuiteGuid>
    <testCaseLink>
-      <guid>3b0619a0-f09a-45ab-888c-a3ec442de44b</guid>
+      <guid>c3acc80e-6683-453b-bd22-6c75b6136949</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Lab(Success)/Centres and Services (Main)/TC 3.1 Centres and Services (Main) Add</testCaseId>
@@ -47,7 +47,7 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>675c5291-6ea3-48ac-940e-92a68a089982</guid>
+      <guid>35c8933e-f70b-4acc-8728-af2f06ef8e84</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Lab(Success)/Centres and Services (Main)/TC 3.6 Centres and Services (Main) Send AP</testCaseId>
@@ -68,7 +68,7 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>fc23cde7-466a-4722-b44a-065f5c651b9a</guid>
+      <guid>c7be7ca4-618e-4215-9ffc-fec947a31bdc</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Lab(Success)/Centres and Services (Main)/TC 3.9 Centres and Services (Main) Delete</testCaseId>

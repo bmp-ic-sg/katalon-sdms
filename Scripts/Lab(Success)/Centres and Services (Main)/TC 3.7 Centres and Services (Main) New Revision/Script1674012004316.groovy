@@ -131,7 +131,7 @@ WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Serv
 WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/button_New Revision'))
 
 'Page navigated to "Revision data" page'
-WebUI.waitForElementPresent(findTestObject('Page_Centres  Services (Main)/div_Successfully create new revision'), 30)
+WebUI.waitForElementPresent(findTestObject('Page_Centres  Services (Main)/div_Successfully create new revision'), 5)
 
 '"Revision data" page'
 WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Success Revision Page')

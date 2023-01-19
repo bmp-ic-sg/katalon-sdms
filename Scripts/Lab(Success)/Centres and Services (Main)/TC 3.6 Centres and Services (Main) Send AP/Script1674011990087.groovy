@@ -71,7 +71,7 @@ WebUI.takeElementScreenshot(findTestObject('Object Repository/Page_Centres  Serv
 WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main)/button_Send For Approval_Send to AP'))
 
 'Page navigated to "Centres & Services (Main) Approvals" page'
-WebUI.waitForElementPresent(findTestObject('Page_Centres  Services (Main)/div_Successfully_Send to Approvals'), 10)
+WebUI.waitForElementPresent(findTestObject('Page_Centres  Services (Main)/div_Successfully_Send to Approvals'), 5)
 
 '"Success send for approval" page'
 WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Success Send to Approvals')
@@ -165,7 +165,7 @@ WebUI.click(findTestObject('Object Repository/Page_Centres  Services (Main) Appr
 
 'Page navigated to "Success approve" page'
 WebUI.waitForElementPresent(findTestObject('Page_Centres  Services (Main) Approvals/div_Successfully Approve Centres  Services (Main)'), 
-    30)
+    5)
 
 '"Success Approve" page'
 WebUI.takeFullPageScreenshotAsCheckpoint('Centres & Services (Main) Success Approve Page')
