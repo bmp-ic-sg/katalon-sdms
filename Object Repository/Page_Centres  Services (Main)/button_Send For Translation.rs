@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Send For Translation</name>
+   <tag></tag>
+   <elementGuidId>68ed1269-0e86-4a3d-b5c7-e6ce690c6b97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#send-checked-translation</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='send-checked-translation']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9bac6268-280d-496a-8039-fdce68064b25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f71b989a-2f90-4725-b83a-5e34f25de19a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn mat-button btn-primary bulk-action-button mr-1</value>
+      <webElementGuid>12975464-6d63-4247-a539-50c1854525b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>send-checked-translation</value>
+      <webElementGuid>069bfcc7-f1ab-43b7-b91d-4bf4cd870ce6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>c7b2d179-661d-4cec-9210-0e02e685890e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#send-multi-translate-modal</value>
+      <webElementGuid>7bc96677-ee5d-4b4d-a2f5-5c5c60b7871a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-backdrop</name>
+      <type>Main</type>
+      <value>static</value>
+      <webElementGuid>2ef65cb4-2e5e-4d46-bb30-8d2a517bd127</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-keyboard</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>1e6fb9a3-d56d-4553-bdf1-2b5389554141</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                
+                                                Send For Translation
+                                            </value>
+      <webElementGuid>12e5dcc9-6d42-4665-8dc5-d9422567d3c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;send-checked-translation&quot;)</value>
+      <webElementGuid>bf35d1e9-0a56-4d88-a5c6-a46d59e85cce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='send-checked-translation']</value>
+      <webElementGuid>cbd49763-0213-409e-b6fb-c2f0bd0136a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[1]/preceding::button[1]</value>
+      <webElementGuid>06c400ad-082f-46c0-93b0-50820fcc86cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selected Data ()'])[1]/preceding::button[2]</value>
+      <webElementGuid>6dd76bdf-0e56-4b16-8e87-09de67d25960</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Send For Translation']/parent::*</value>
+      <webElementGuid>4bfa035d-04ee-4879-9177-284bb6c32e5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/div/button[2]</value>
+      <webElementGuid>f1c54263-1dcc-4374-a456-7e7ff4accc1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'send-checked-translation' and (text() = '
+                                                
+                                                Send For Translation
+                                            ' or . = '
+                                                
+                                                Send For Translation
+                                            ')]</value>
+      <webElementGuid>09421bb2-ebb3-4f62-9535-48376ada28f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

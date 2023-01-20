@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>Verify if users can click new revision item Centres &amp; Services (Main).</description>
-   <name>TC 3.7 Centres and Services (Main) New Revision</name>
+   <name>TC 3.8 Centres and Services (Main) New Revision</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>2392800b-c3eb-49b7-9776-ccc6fc8abdb8</testCaseGuid>

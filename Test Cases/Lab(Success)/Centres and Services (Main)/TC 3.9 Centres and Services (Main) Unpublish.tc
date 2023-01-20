@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>Verify if users can click unpublish item Centres &amp; Services (Main).</description>
-   <name>TC 3.8 Centres and Services (Main) Unpublish</name>
+   <name>TC 3.9 Centres and Services (Main) Unpublish</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>c31566d3-137f-493c-8021-724aa0e72d6f</testCaseGuid>

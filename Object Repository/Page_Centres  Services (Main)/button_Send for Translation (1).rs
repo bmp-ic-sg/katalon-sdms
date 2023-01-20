@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Send for Translation (1)</name>
+   <tag></tag>
+   <elementGuidId>49a0fc46-2e36-4327-bc62-8690e0034df5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#send-multi-translation-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='send-multi-translation-button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1e95ad1d-a545-413f-af69-ea6724d2732a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0fefd9aa-9a5a-4324-9830-c5a66cc017d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>send-multi-translation-button</value>
+      <webElementGuid>b53de85b-1693-4584-a91b-65c22e2529ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn mat-button btn-primary iconed-button ml-3</value>
+      <webElementGuid>a3a49ba7-c315-4cb0-a6e0-92f7fcb68ace</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            Send for Translation
+                        </value>
+      <webElementGuid>ccd3e194-10be-4c8a-8b38-61a51d1fb027</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;send-multi-translation-button&quot;)</value>
+      <webElementGuid>44055d14-bafa-4cf7-84d4-47091dda7fe3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='send-multi-translation-button']</value>
+      <webElementGuid>6f27fa87-c607-4670-89c7-c41517d65e8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='send-translate-form']/div[2]/button</value>
+      <webElementGuid>7461648e-bef2-4d3f-99a8-ac1b0ee0fe9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose Translation Workflow'])[1]/following::button[1]</value>
+      <webElementGuid>45628d92-adbf-4b8e-ad17-b85af126f489</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon Test V1 Final'])[4]/following::button[1]</value>
+      <webElementGuid>2b1928fe-5041-4684-8f09-0eeb5faa980e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Centres &amp; Services (Main)'])[2]/preceding::button[1]</value>
+      <webElementGuid>1aa88564-4a16-4213-a21f-348080a086f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>7be4b412-7b59-415b-a07f-42addee6b632</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'send-multi-translation-button' and (text() = '
+                            Send for Translation
+                        ' or . = '
+                            Send for Translation
+                        ')]</value>
+      <webElementGuid>81c5ce4f-f80a-4af1-98d8-51052af0872a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
